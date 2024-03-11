@@ -1,9 +1,6 @@
 ## My booktracker
 
 A book tracking application build with *react, express,  mongodb and Google book API*. User have access to an entire library that offers book searching, bookshelf management and reading progress tracking.
-
-- #### Demo Video: https://www.youtube.com/watch?v=busUHFWhIAw&t=156s 
-
 - #### Features
 
   - **Without Google login**: User can search books based on keywords and see the details of the books such as title, author, description...etc.
